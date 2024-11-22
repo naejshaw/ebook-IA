@@ -22,4 +22,4 @@ Agora, reescreva o esboço do ebook anterior com uma linguagem voltada ao públi
 
 ## Resultado final
 
-Após a execução dos prompts acima, foi obtido o resultado presente no arquivo pdf
+Após a execução dos prompts acima, foi obtido o resultado presente no arquivo pdf <https://github.com/naejshaw/ebook-IA/blob/main/Ebook%20Ninja%20JS.pdf>
